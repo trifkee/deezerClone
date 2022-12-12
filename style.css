@@ -81,7 +81,7 @@ aside{
     height: 100%;
     width: 65%;
     padding: 1rem;
-    z-index: 99;
+    z-index: 9999;
     transition: .2s ease-in;
     /* opacity: 0; */
 }
