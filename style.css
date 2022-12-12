@@ -156,6 +156,7 @@ article{
     gap: 1rem;
     padding: .5rem 1rem;
     border-bottom: 1px solid var(--light-gray);
+    z-index:999;
 }
 
 .search.active{
